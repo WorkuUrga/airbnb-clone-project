@@ -87,28 +87,32 @@ High-quality visuals and interactive components, such as maps or filters, add co
 
 ### Secondary Colors:
 
--Light Gray (#E9E9E9): Background of property cards.
--Dark Gray (#4A4A4A): For icons and text headers.
--Gold/Yellow (#FAC02B): Used for the star ratings.
--Yellow (#FFA800): For search icon background
+- Light Gray (#E9E9E9): Background of property cards.
+- Dark Gray (#4A4A4A): For icons and text headers.
+- Gold/Yellow (#FAC02B): Used for the star ratings.
+- Yellow (#FFA800): For search icon background
 
 ### Text Colors:
 
--Black (#262626): For Logo.
--Gray (#616161): Secondary text descriptions.
--Blue (#161117): Hyperlinks like "Filter."
+- Black (#262626): For Logo.
+- Gray (#616161): Secondary text descriptions.
+- Blue (#161117): Hyperlinks like "Filter."
 
 ### Typography
 
--Font Family: Quicksand, Source Sans Pro
-Font Weight:
--Regular (500): Used for body text.
--Bold (600): Used for headings and CTAs.
-Font Size:
--12px: For fine print and labels.
--16px: For body text.
--22px: For descriptions
--94px: For headings and titles.
+- Font Family: Quicksand, Source Sans Pro.
+
+### Font Weight:
+
+- Regular (500): Used for body text.
+- Bold (600): Used for headings and CTAs.
+
+### Font Size:
+
+- 12px: For fine print and labels.
+- 16px: For body text.
+- 22px: For descriptions
+- 94px: For headings and titles.
 
 ## **The Importance of Identifying Design Properties in a Mock-Up Design**
 
@@ -133,3 +137,93 @@ A shared understanding of design properties enables smooth collaboration between
 ### 5. Future Scalability
 
 When design properties are clearly identified and centralized, it becomes easier to scale the application in the future. For instance, adding new features or pages won’t require rethinking the design system, as the foundational properties are already established.
+
+## **Project Roles and Responsibilities.**
+
+### Project Manager
+
+The Project Manager serves as the project's leader, overseeing the planning, implementation, and completion of projects.
+
+**Key Responsibilities**
+
+- Set timelines for starting and completion of the project
+- Follows up and nsures team collaboration and progress.
+- Handles communication with clients and stakeholders.
+- Plans, organizes, and manages project resources.
+
+### Frontend Developer:
+
+Frontend Developers specialize in building the user interface and user experience of a web application. They are also responsible for ensuring a smooth and engaging user experience
+
+**Key Responsibilities**
+
+- Translating design mock-ups into functional code and ensuring cross-browser compatibility.
+- Works closely with designers to implement the visual designs.
+- Writes HTML, CSS, and JavaScript and other necessary languages to create the visual elements and interactive features.
+- Ensure the application is responsive and performs well on various devices.
+
+### Backend Developer:
+
+Backend Developers focus on the server-side of a web application.managing data and ensuring seamless communication between the server and the frontend.
+
+**Key Responsibilities**
+
+- They create APIs and manage data storage,ensuring that the frontend can effectively communicate with the backend services.
+- Design and manage databases.
+- Implement security and data protection measures.
+- Optimize server performance and scalability.
+
+### Designers
+
+Designers are responsible for creating the visual aspects of a product, including user interface (UI) and user experience (UX) design.
+
+**Key Responsibilities**
+
+- They develop wireframes, prototypes, and high-fidelity designs, ensuring that the application is both aesthetically pleasing and functional.
+- They work closely with frontend developers to implement their designs.
+- Conduct usability testing to gather feedback and improve designs.
+
+### QA/Testers
+
+Quality Assurance (QA) Testers ensure that the software meets quality standards and reliability of the application before it is released.
+
+**Key Responsibilities**
+
+- Develop and execute test plans and test cases.
+- Ensures the application meets quality standards and user requirements.
+- Creates test cases and executes test scenarios.
+- Test the application for bugs, performance issues, and usability. Ensure compliance with design specs.
+
+### DevOps Engineers
+
+DevOps Engineers bridge the gap between development and operations. They focus on automating the deployment process, maintaining server infrastructure, and ensuring the application runs smoothly in production.
+
+**Key Responsibilities**
+
+- By implementing continuous integration and continuous deployment (CI/CD) practices, they enhance collaboration and efficiency within the development team.
+- Monitors the application's performance and security.
+- Manage cloud infrastructure and server configurations.
+- Ensure security and compliance in the production environment.
+
+### Product Owner
+
+The Product Owner is responsible for defining the vision of the product and prioritizing the development backlog. They act as a liaison between stakeholders and the development team, ensuring that the product aligns with business goals.
+
+**Key Responsibilities**
+
+- They gather requirements, set priorities, and make decisions about feature development.
+- Collaborates with the development team to ensure the product meets user needs.
+- Make decisions on scope and accept completed work.
+- Ensure the product delivers value to users and aligns with business goals.
+
+### Scrum Master
+
+The Scrum Master facilitates the Scrum process within the development team. They help manage the Scrum framework, ensuring that the team follows Agile principles.
+
+**Key Responsibilities**
+
+- leading Scrum ceremonies (like daily stand-ups and sprint planning)
+- Remove impediments that hinder the team’s progress.
+- Foster a collaborative and productive team environment.
+- Coach the team on Agile principles and practices.
+- Ensure continuous improvement within the team.
