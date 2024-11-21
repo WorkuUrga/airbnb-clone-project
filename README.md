@@ -82,8 +82,8 @@ High-quality visuals and interactive components, such as maps or filters, add co
 
 ### Primary Colors:
 
--Green (#34967C): Used for discount badges like "60% OFF."
--White (#FFFFFF): Predominantly used for backgrounds.
+- Green (#34967C): Used for discount badges like "60% OFF and for the section above the Navigation bars."
+- White (#FFFFFF): Predominantly used for backgrounds.
 
 ### Secondary Colors:
 
@@ -227,3 +227,40 @@ The Scrum Master facilitates the Scrum process within the development team. They
 - Foster a collaborative and productive team environment.
 - Coach the team on Agile principles and practices.
 - Ensure continuous improvement within the team.
+
+## UI Component Patterns
+
+To ensure modularity, scalability, and ease of development, the project can be divided into reusable components. These are possible components for the project.
+
+1. Navbar Component
+   The Navbar component incorporates
+
+- Branding("Alx"Logo Area): located on far left side of the navbar acting as clickable link that redirects users to the homepage.
+- Notification Bar: displays a global notification banner with a message "Overseas trip?" with a CTA button labeled as "More info"
+- Search Bar: Center-aligned, taking up a prominent space in the navbar having Location field, Date pickers, Guest Selectors, and Search icon.
+- Navigation Links: Positioned in a horizontal row below the search bar including clickable property catagories like "Rooms, Mansion, Villa" etc.
+- User Account Controls: Aligned to the far-right side of the navbar holding a sign-in and sign-up buttons redirecting the user to authentication page upon click.
+
+2. Property Card Component
+   The Property Card will showcase individual properties in a visually appealing format, providing essential information at a glance.
+   - Features
+     - Property image
+     - Titla and description
+     - Name and location of the property
+     - Prices
+     - star rating and reviews
+     - Price off badges ("60% Off")
+3. Footer
+   The Footer will provide additional navigation and information about the application, enhancing user experience and accessibility.
+   - Key Features:
+     - Contact information
+     - Social Media Links
+     - Legal Links
+     - Newsletter Signup
+4. Property Details Component
+   This component provides an in-depth look at a specific property, allowing users to view detailed information and book their stay.
+   - Key Features
+     - Gallery
+     - Booking Form
+     - User Review Section
+     - Host Information
